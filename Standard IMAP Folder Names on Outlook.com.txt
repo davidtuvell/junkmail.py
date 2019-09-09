@@ -1,0 +1,8 @@
+'Archive'
+'Deleted'
+'Drafts'
+'Inbox'
+'Junk'
+'Notes'
+'Outbox'
+'Sent'
